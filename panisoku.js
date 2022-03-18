@@ -1,6 +1,4 @@
-<script type="text/javascript">
-<!--
-
+$(function () {
 var msg = new Array();
 
 
@@ -7563,7 +7561,5 @@ var no = Math.floor(Math.random() * msg.length);
 
 // 表示
 document.write(msg[no]);
+}
 
-
-// -->
-</script>
